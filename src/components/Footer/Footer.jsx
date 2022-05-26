@@ -42,12 +42,12 @@ const Footer = () => {
                     </Col>
                     <Col>
                         <h5 className="text-white mb-3">Contact Us</h5>
-                        <p>+8801789754636</p>
+                        <p>(34)2122222</p>
                         <p>Sat – Fri: 9.00 AM – 8.00 PM</p>
 
                         <address>
-                            <i>Lake Circus, Kolabagan</i><br />
-                            <i>Dhanmondi, Dhaka-1215</i>
+                            <i>1235 Divi St. San Francisco, </i><br />
+                            <i>CA 92351</i>
 
                         </address>
                         <p>24 hours online service.</p>
